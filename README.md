@@ -2,6 +2,8 @@
 Akkuba Enterprise Resource Management System
 
 
+![Screenshot] (img/14.png?raw=true)
+
 
 ![Screenshot] (img/1.png?raw=true)
 
@@ -29,4 +31,3 @@ Akkuba Enterprise Resource Management System
 
 ![Screenshot] (img/13.png?raw=true)
 
-![Screenshot] (img/14.png?raw=true)
